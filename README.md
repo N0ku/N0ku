@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi ! Welcome on my page, here is your coffee (>'-')> ☕️
+
+![](https://github.com/N0ku/umaru.gif)
 
 <!--
 **N0ku/N0ku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
