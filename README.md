@@ -1,6 +1,6 @@
 ### Hi ! Welcome on my page, here is your coffee (>'-')> ☕️
 
-![test](https://github.com/N0ku/umaru.gif)
+![Alt Text](video/umaru.gif)
 
 <!--
 **N0ku/N0ku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
