@@ -38,7 +38,7 @@ I regularly work on several personal projects that you can find here, as well as
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N0ku&layout=compact&theme=dracula)](https://github.com/N0ku)
 
-
+![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=red)
 </br>
 <!--
 **N0ku/N0ku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
