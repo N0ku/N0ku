@@ -35,7 +35,9 @@ I regularly work on several personal projects that you can find here, as well as
 </br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N0ku&show_icons=true&theme=dracula)
+
 </br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N0ku&layout=compact&theme=dracula)](https://github.com/N0ku)
 
 ![](https://komarev.com/ghpvc/?username=N0ku&style=for-the-badge&color=red)
