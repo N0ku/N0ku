@@ -8,9 +8,16 @@
 ## About Me 🍵
 </br>
 
-Hello ! 🤗 I am N0ku, currently studying at the Coding Factory by ESIEE-IT, I started learning to code in 2019.
+Hello ! 🤗 I am N0ku, currently studying at the [**Coding Factory by ESIEE-IT**](https://codingfactory.fr/?gclid=CjwKCAjw3ueiBhBmEiwA4BhspCjySMrnCNb0PwkhblihXCypNev604sewJMhQkxe0SzQTU429EZw_xoCrBEQAvD_BwE), I started learning to code in 2019.
 
-I regularly work on several personal projects that you can find here, as well as my school projects carried out with my different comrades. Feel free to take a look at my work ! 
+I regularly work on several personal projects that you can find here, as well as my school projects carried out with my different comrades. Feel free to take a look at my work ! 😉
+
+### School github organizations
+
+</br>
+
+  - [**Coding Factory Students**](https://github.com/codingfactory-by-itescia)
+  - [**Coding Factory School projects**](https://github.com/CodingFactory-Repos)
 
 </br>
 
