@@ -21,10 +21,6 @@ I regularly work on several personal projects that you can find here, as well as
 
 </br>
 
-## Discord Presence
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/301301940640546817?theme=dark&bg=#e0e0e0)](https://discord.com/users/301301940640546817)
-
 ## Programming Skills 💻
 </br>
 
