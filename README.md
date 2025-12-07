@@ -1,7 +1,7 @@
 # Hello and welcome to my GitHub profile, here's an orange juice 🧃 - I don't like coffee  
 </br>
 
-![Ambiance gif]("res/frieren.gif")
+![Ambiance gif](res/frieren.gif)
 
 </br>
 
