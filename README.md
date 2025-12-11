@@ -76,9 +76,9 @@ These are the tools and technologies I'm working the most or just I enjoy to use
 
 Besides development, I also work on:
 
-- **Web and mobile UX design** — smooth navigation, clear user paths  
-- **UI design** — components, styles, prototypes  
-- **Logo creation** — branding for apps, projects, and teams  
+- **Web and mobile UX design** —> smooth navigation, clear user paths  
+- **UI design** —> components, styles, prototypes  
+- **Logo creation** —> branding for apps, projects, and teams  
 
 I enjoy building products that are both **beautiful** and **pleasant to use** (yeah yeah that's the principle of UI and UX, genius) 
 
