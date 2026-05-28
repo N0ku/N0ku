@@ -8,11 +8,11 @@
 ## About Me 🍵  
 </br>
 
-Hi, I'm **N0ku** !  
-What I'm doing in life ? I'm in my last year of a Master's degree in **Lead Development** at the Coding Factory, where I explore a wide range of web and software technologies.
+Hi, I'm Lucie !
+What am I doing in life ? I just graduated with a Master's degree in Lead Development from the Coding Factory, where I explored a wide range of web and software technologies and... I'm now actively looking for a new company !
 
-I love creating personal projects, experimenting with new tools, and bringing ideas to life. (Mostly just create some randoms things...)
-You'll find here both my solo work and the projects I've built with classmates during my studies.  
+I love creating personal projects, experimenting with new tools, and bringing ideas to life. (Mostly just creating some random things...)
+You'll find here both my solo work and the projects I've built with classmates during my studies.
 So feel free to explore, get inspired, or just enjoy the ride! 😉
 
 </br>
