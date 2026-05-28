@@ -1,4 +1,4 @@
-# Hello and welcome to my GitHub profile, here's an orange juice 🧃 - I don't like coffee  
+# Hello and welcome to my GitHub profile, here's an orange juice 🧃, I don't like coffee  
 </br>
 
 ![Ambiance gif](res/frieren.gif)
@@ -23,11 +23,11 @@ So feel free to explore, get inspired, or just enjoy the ride! 😉
 
 These are the tools and technologies I'm working the most or just I enjoy to use: 
 
-- **React** — My go-to when I've a new stupid web project idea
-- **TypeScript** — Types are love, types are life, better than any wife
-- **React Native** — To create mobile application, I think ? 
-- **Node.js + Express** — Clean, simple and effective do I need to say more
-- **Three.js** — For creative, fun, animated experiments ✨ :DDDDDDD
+- **React**: My go-to when I've a new stupid web project idea
+- **TypeScript**: Types are love, types are life, better than any wife
+- **React Native**: To create mobile application, I think ? 
+- **Node.js + Express**: Clean, simple and effective do I need to say more
+- **Three.js**: For creative, fun, animated experiments ✨ :DDDDDDD
 
 </br>
 
