@@ -93,9 +93,7 @@ Besides development, I also work on:
 - **UI design** —> components, styles, prototypes  
 - **Logo creation** —> branding for apps, projects, and teams  
 
-I enjoy building products that are both **beautiful** and **pleasant to use** (yeah yeah that's the principle of UI and UX, genius) 
-
-</br>
+I enjoy building products that are both **beautiful** and **pleasant to use** (that's the principle of UI and UX, genius) 
 
 ![](https://komarev.com/ghpvc/?username=N0ku&style=for-the-badge&color=red)
 
